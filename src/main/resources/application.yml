@@ -1,2 +1,5 @@
 # basic server setting
 server.port: 80
+
+# swagger
+spring.mvc.pathmatch.matching-strategy: ANT_PATH_MATCHER
