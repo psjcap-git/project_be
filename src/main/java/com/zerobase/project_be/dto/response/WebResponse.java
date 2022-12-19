@@ -13,8 +13,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class WebResponse {
-    
+public class WebResponse {    
     private ErrorCode errorCode;
 
     public static WebResponse ok() {

@@ -12,7 +12,6 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @Slf4j
 public class TestController {
-
     public static class testclass {
         public int a = 10;
         public String b = "string sis alkdnfa";
